@@ -1,0 +1,37 @@
+<root>
+    <row>
+        <id>41</id>
+        <id_padre>37</id_padre>
+        <id_new>0</id_new>
+        
+        
+        <nome>edit</nome>
+        <img>pencil.png</img>
+        <icons>fa fa-pencil</icons>
+        <ordine>0</ordine>
+        <obj />
+        <act />
+        <funzione>editXMLMenu</funzione>
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <load_tables>menu</load_tables>
+        <fieldstorender>id,id_padre,id_new,lista_figli,lista_aree,nome,img,ordine,obj,act,funzione,subtitle,txt,query,order_by,load_tables,fieldstorender,hiddenfields,defaults,visibility,processed,js_head,js_foot,id_approvaz</fieldstorender>
+        <hiddenfields />
+        <defaults>a:0:{}</defaults>
+        <visibility>0</visibility>
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz>0</id_approvaz>
+        <handle />
+        <datemod />
+        <last_stato />
+        <querystr_keys>id</querystr_keys>
+        <pars>
+            <id_menu>1784</id_menu>
+        </pars>
+        <tipo_act>row</tipo_act>
+    </row>
+</root>

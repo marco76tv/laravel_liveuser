@@ -1,0 +1,31 @@
+<root>
+    <row>
+        <id>1165</id>
+        <id_padre>1685</id_padre>
+        
+        
+        
+        <nome>Associa Programma a Settore Reparto</nome>
+        <img />
+        <ordine />
+        <obj>user</obj>
+        <act>associaAreaASettoreReparto</act>
+        <funzione />
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <load_tables />
+        <fieldstorender>id,id_padre,nome,obj,act,funzione</fieldstorender>
+        <hiddenfields />
+        <defaults>a:0:{}</defaults>
+        <visibility />
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+    </row>
+</root>

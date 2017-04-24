@@ -1,0 +1,33 @@
+<root>
+    <row>
+        <id>1224</id>
+        <id_padre>1692</id_padre>
+        
+        
+        
+        <nome>nuovo Lista Aree</nome>
+        <img>new.png</img>
+        <ordine />
+        <obj>auto</obj>
+        <act>new_list_aree</act>
+        <funzione>newTablename</funzione>
+        <subtitle />
+        <txt />
+        <query />
+        <order_by />
+        <load_tables>liveuser_areas</load_tables>
+        <fieldstorender />
+        <hiddenfields />
+        <defaults />
+        <visibility />
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+        <icons>fa fa-plus-square-o</icons>
+        <tipo_act>table</tipo_act>
+    </row>
+</root>

@@ -1,0 +1,31 @@
+<root>
+    <row>
+        <id>1142</id>
+        <id_padre>1136</id_padre>
+        <id_new>0</id_new>
+        
+        
+        <nome>TABLE EDITABLE JQUERY</nome>
+        <img />
+        <ordine />
+        <obj>test</obj>
+        <act>tableEditableJquery</act>
+        <funzione />
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <load_tables />
+        <fieldstorender></fieldstorender>
+        <hiddenfields />
+        <defaults>a:0:{}</defaults>
+        <visibility />
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+    </row>
+</root>

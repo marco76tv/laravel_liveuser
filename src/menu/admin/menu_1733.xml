@@ -1,0 +1,34 @@
+<root>
+    <row>
+        <tipo_act>table</tipo_act>
+        <icons>fa fa-file-excel-o fa-lg</icons>
+        <visibility />
+        <id>1733</id>
+        <id_padre>1692</id_padre>
+        
+        
+        
+        <nome>xls aree utenti</nome>
+        <img />
+        <ordine />
+        <obj>user</obj>
+        <act>XLSAreeUtenti</act>
+        <funzione />
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <load_tables />
+        <fieldstorender>area_id,application_id,area_define_name,db,img</fieldstorender>
+        <hiddenfields />
+        <defaults>a:0:{}</defaults>
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+        <querystr_keys />
+    </row>
+</root>

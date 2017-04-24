@@ -1,0 +1,32 @@
+<root>
+    <row>
+        <id>1186</id>
+        <id_padre>1179</id_padre>
+        
+        
+        
+        <nome>do chi ha il programma ?</nome>
+        <img />
+        <ordine />
+        <obj>user</obj>
+        <act>do_filterArea</act>
+        <funzione />
+        <subtitle />
+        <txt />
+        <query />
+        <order_by />
+        <load_tables />
+        <fieldstorender />
+        <hiddenfields />
+        <defaults />
+        <visibility />
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+        <querystr_keys>area_id</querystr_keys>
+    </row>
+</root>

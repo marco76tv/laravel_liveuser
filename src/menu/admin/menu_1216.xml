@@ -1,0 +1,30 @@
+<root>
+    <row>
+        <id>1216</id>
+        <id_padre>1692</id_padre>
+        <nome>modifica Lista Aree</nome>
+        <img>pencil.png</img>
+        <ordine />
+        <obj></obj>
+        <act></act>
+        <funzione>editTablename</funzione>
+        <subtitle />
+        <txt />
+        <query />
+        <order_by />
+        <tablename>liveuser_areas</tablename>
+        <fieldstorender />
+        <hiddenfields />
+        <defaults />
+        <visibility />
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+        <icons>fa fa-pencil</icons>
+        <querystr_keys>area_id_liveuser_areas</querystr_keys>
+    </row>
+</root>

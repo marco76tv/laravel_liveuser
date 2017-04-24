@@ -1,0 +1,28 @@
+<root>
+    <row>
+        <id>1692</id>
+        <id_padre>1685</id_padre>
+        <nome>Lista Aree</nome>
+        <img />
+        <ordine />
+        <obj>user</obj>
+        <act>list_aree</act>
+        <funzione>showTablename</funzione>
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <load_tables>liveuser_areas</load_tables>
+        <fieldstorender>area_id,application_id,area_define_name,db,img</fieldstorender>
+        <hiddenfields>img</hiddenfields>
+        <defaults>a:0:{}</defaults>
+        <visibility />
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+    </row>
+</root>

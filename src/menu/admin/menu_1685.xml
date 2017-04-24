@@ -1,0 +1,31 @@
+<root>
+    <row>
+        <id>1685</id>
+        <id_padre>0</id_padre>
+        <id_new>0</id_new>
+        
+        
+        <nome>Aree</nome>
+        <img />
+        <ordine>0</ordine>
+        <obj />
+        <act />
+        <funzione />
+        <subtitle />
+        <txt />
+        <query />
+        <order_by />
+        <load_tables />
+        <fieldstorender />
+        <hiddenfields />
+        <defaults />
+        <visibility>3</visibility>
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz>0</id_approvaz>
+        <handle />
+        <datemod />
+        <last_stato />
+    </row>
+</root>

@@ -1,0 +1,32 @@
+{
+    "name": "marco76tv/laravel_liveuser",
+    "type": "library",
+    "description": "LiveUser for Laravel",
+    "keywords": ["laravel","liveuser","pear"],
+
+    "homepage": "https://geekpiu.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marco Xot",
+            "email": "marco.sottana@gmail.com",
+            "homepage" : "https://www.facebook.com/marco.xot",
+            "role": "Developer"
+        },
+        {
+        	"name": "Raffaele Carelle",
+        	"email": "raffaele.carelle@gmail.com",
+        	"homepage" : "https://www.facebook.com/raffaele.carelle",
+        	"role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	 "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "XRA\\LU\\": "src/"
+        }
+    }
+}

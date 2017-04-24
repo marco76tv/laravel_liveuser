@@ -1,0 +1,34 @@
+<root>
+    <row>
+        <tipo_act>row</tipo_act>
+        <icons>fa fa-pencil</icons>
+        <visibility />
+        <nome>test getlinks</nome>
+        <obj>test</obj>
+        <act>getlinks</act>
+        <load_tables />
+        <funzione />
+        <fieldstorender />
+        <id>1798</id>
+        <id_padre>1122</id_padre>
+        
+        
+        
+        <img />
+        <ordine />
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <hiddenfields />
+        <defaults>a:0:{}</defaults>
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+        <querystr_keys />
+    </row>
+</root>

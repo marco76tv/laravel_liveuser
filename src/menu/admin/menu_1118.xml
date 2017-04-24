@@ -1,0 +1,31 @@
+<root>
+    <row>
+        <id>1118</id>
+        <id_padre>1122</id_padre>
+        
+        
+        
+        <nome>Dynamic Sortable Tables</nome>
+        <img>userss.png</img>
+        <ordine />
+        <obj>test</obj>
+        <act>dynamicSortableTables</act>
+        <funzione />
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <load_tables></load_tables>
+        <fieldstorender />
+        <hiddenfields />
+        <defaults>a:0:{}</defaults>
+        <visibility />
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+    </row>
+</root>

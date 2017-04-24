@@ -1,0 +1,34 @@
+<root>
+    <row>
+        <tipo_act>table</tipo_act>
+        <icons>glyphicon glyphicon-tree-deciduous</icons>
+        <visibility />
+        <id>1760</id>
+        <id_padre>1122</id_padre>
+        
+        
+        
+        <nome>testFormBuilder</nome>
+        <img />
+        <ordine />
+        <obj>test</obj>
+        <act>testFormBuilder</act>
+        <funzione />
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <load_tables />
+        <fieldstorender></fieldstorender>
+        <hiddenfields />
+        <defaults>a:0:{}</defaults>
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+        <querystr_keys />
+    </row>
+</root>

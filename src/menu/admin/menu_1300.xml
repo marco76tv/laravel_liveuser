@@ -1,0 +1,31 @@
+<root>
+    <row>
+        <id>1300</id>
+        <id_padre>1685</id_padre>
+        <id_new>0</id_new>
+        
+        
+        <nome>cerca Aree nelle Directory</nome>
+        <img />
+        <ordine>0</ordine>
+        <obj>user</obj>
+        <act>cercaAreeInDir</act>
+        <funzione></funzione>
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <load_tables>liveuser_areas</load_tables>
+        <fieldstorender>area_id,application_id,area_define_name,db,img</fieldstorender>
+        <hiddenfields />
+        <defaults>a:0:{}</defaults>
+        <visibility>0</visibility>
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz>0</id_approvaz>
+        <handle />
+        <datemod />
+        <last_stato />
+    </row>
+</root>
