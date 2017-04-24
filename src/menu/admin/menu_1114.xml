@@ -1,0 +1,33 @@
+<root>
+    <row>
+        <id>1114</id>
+        <id_padre>1106</id_padre>
+        
+        
+        
+        <nome>Livello Utente</nome>
+        <img>areas.png</img>
+		<icons>fa fa-level-up</icons>
+        <ordine />
+        <obj>user</obj>
+        <act>editUserLevel</act>
+		<tipo_act>table</tipo_act>
+        <funzione />
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <load_tables>liveuser_area_admin_areas</load_tables>
+        <fieldstorender />
+        <hiddenfields />
+        <defaults>a:0:{}</defaults>
+        <visibility />
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+    </row>
+</root>

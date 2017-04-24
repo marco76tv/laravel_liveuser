@@ -1,0 +1,32 @@
+<root>
+    <row>
+        <id>1171</id>
+        <id_padre>1165</id_padre>
+        
+        
+        
+        <nome>do Associa Programma a Settore Reparto</nome>
+        <img />
+        <ordine />
+        <obj>user</obj>
+        <act>do_associaAreaASettoreReparto</act>
+        <funzione />
+        <subtitle />
+        <txt />
+        <query />
+        <order_by />
+        <load_tables />
+        <fieldstorender />
+        <hiddenfields />
+        <defaults />
+        <visibility />
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+        <querystr_keys>ente,stabi_repar_0,stabi_repar_1,areas_0</querystr_keys>
+    </row>
+</root>

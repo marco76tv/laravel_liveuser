@@ -1,0 +1,31 @@
+<root>
+    <row>
+        <id>1194</id>
+        <id_padre>1154</id_padre>
+        
+        
+        
+        <nome>create table from txtd</nome>
+        <img />
+        <ordine />
+        <obj>csv</obj>
+        <act>createTableFromTXTD</act>
+        <funzione />
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <load_tables />
+        <fieldstorender>id,id_padre,nome,obj,act,funzione</fieldstorender>
+        <hiddenfields />
+        <defaults>a:0:{}</defaults>
+        <visibility />
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+    </row>
+</root>

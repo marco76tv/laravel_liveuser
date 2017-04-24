@@ -1,0 +1,33 @@
+<root>
+    <row>
+        <id>1223</id>
+        <id_padre>1692</id_padre>
+        
+        
+        
+        <nome>copia e incolla Lista Aree</nome>
+        <img>clone.png</img>
+        <ordine />
+        <obj>auto</obj>
+        <act>clone_list_aree</act>
+        <funzione>cloneTablename</funzione>
+        <subtitle />
+        <txt />
+        <query />
+        <order_by />
+        <load_tables>liveuser_areas</load_tables>
+        <fieldstorender />
+        <hiddenfields />
+        <defaults />
+        <visibility />
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+        <icons>fa fa-copy</icons>
+        <querystr_keys>area_id_liveuser_areas</querystr_keys>
+    </row>
+</root>

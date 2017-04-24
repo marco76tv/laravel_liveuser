@@ -1,0 +1,34 @@
+<root>
+    <row>
+        <id>1225</id>
+        <id_padre>1692</id_padre>
+        
+        
+        
+        <nome>elimina Lista Aree</nome>
+        <img>cross.png</img>
+        <ordine />
+        <obj></obj>
+        <act></act>
+        <funzione>deleteTablename</funzione>
+        <subtitle />
+        <txt />
+        <query />
+        <order_by />
+        <load_tables>liveuser_areas</load_tables>
+        <tablename>liveuser_areas</tablename>
+        <fieldstorender />
+        <hiddenfields />
+        <defaults />
+        <visibility />
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz />
+        <handle />
+        <datemod />
+        <last_stato />
+        <icons>fa fa-trash-o</icons>
+        <querystr_keys>area_id_liveuser_areas</querystr_keys>
+    </row>
+</root>

@@ -1,0 +1,33 @@
+<root>
+    <row>
+        <id>49</id>
+        <id_padre>37</id_padre>
+        <id_new>0</id_new>
+        
+        
+        <nome>copia e incolla (clona)</nome>
+        <icons>fa fa-copy</icons>
+        <ordine>30</ordine>
+        <obj>xmldb</obj>
+        <act>cloneX</act>
+        <funzione />
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <load_tables>menu</load_tables>
+        <fieldstorender />
+        <hiddenfields />
+        <defaults>a:0:{}</defaults>
+        <visibility>0</visibility>
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz>0</id_approvaz>
+        <handle />
+        <datemod />
+        <last_stato />
+        <tipo_act>row</tipo_act>
+        <querystr_keys>id</querystr_keys>
+    </row>
+</root>

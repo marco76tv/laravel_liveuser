@@ -1,0 +1,34 @@
+<root>
+    <row>
+        <id>47</id>
+        <id_padre>37</id_padre>
+        <id_new>0</id_new>
+        
+        
+        <nome>cancella</nome>
+        <img>cross.png</img>
+        <icons>fa fa-trash-o</icons>
+        <ordine>0</ordine>
+        <obj />
+        <act />
+        <funzione>deleteTablename</funzione>
+        <subtitle />
+        <txt />
+        <query>a:0:{}</query>
+        <order_by>a:0:{}</order_by>
+        <load_tables>menu</load_tables>
+        <fieldstorender />
+        <hiddenfields />
+        <defaults>a:0:{}</defaults>
+        <visibility>0</visibility>
+        <processed />
+        <js_head />
+        <js_foot />
+        <id_approvaz>0</id_approvaz>
+        <handle />
+        <datemod />
+        <last_stato />
+        <tipo_act>row</tipo_act>
+        <querystr_keys>id</querystr_keys>
+    </row>
+</root>
